@@ -1,0 +1,16 @@
+{
+  "name": "marketing-playbook-local",
+  "owner": {
+    "name": "Mick Lu"
+  },
+  "plugins": [
+    {
+      "name": "marketing-playbook",
+      "source": "./",
+      "description": "Step-by-step marketing handbook with bundled marketing skills."
+    }
+  ],
+  "metadata": {
+    "description": "Local marketplace for the Marketing Playbook plugin."
+  }
+}
