@@ -1,0 +1,7 @@
+{
+  "name": "marketing-playbook",
+  "title": "Marketing Playbook",
+  "home_env": "MARKETING_PLAYBOOK_HOME",
+  "state_dir": ".marketing",
+  "track_prefix": {"協作": "CO", "工具": "TL"}
+}
