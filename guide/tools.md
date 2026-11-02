@@ -2,6 +2,24 @@
 
 > 由 `python3 pb.py build` 產生。依第一個階段分組；狀態：已整合、已安裝、待試、待查、未採用、避開。
 
+## 2 研究與參考
+
+| 工具 | 狀態 | 費用 | 授權 | 何時用 |
+|---|---|---|---|---|
+| [行銷參考圖庫（Really Good Emails、Posts.design、Adfolio、Social Proof Examples）](https://reallygoodemails.com/)（T-11） | 待試 | 免費 | 網站內容各自所有（未標） | 找參考作品時 |
+
+## 3 撰寫
+
+| 工具 | 狀態 | 費用 | 授權 | 何時用 |
+|---|---|---|---|---|
+| [PostZen LinkedIn 技能](https://github.com/postzen-dev/linkedin-agent-skill)（T-09） | 待查 | 部分付費 | MIT（寬鬆） | 寫 LinkedIn 貼文、留言、私訊時 |
+
+## 4 審核
+
+| 工具 | 狀態 | 費用 | 授權 | 何時用 |
+|---|---|---|---|---|
+| [humanizer（blader）](https://github.com/blader/humanizer)（T-10） | 待試 | 免費 | MIT（寬鬆） | 定稿前去掉 AI 味時 |
+
 ## 5 發佈
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
