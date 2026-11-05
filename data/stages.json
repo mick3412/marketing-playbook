@@ -85,7 +85,9 @@
           "do": "分析負責人的寫作範例：句子結構、詞彙、語調、開場與結尾、例子的用法，寫成第二人稱的寫作指引",
           "ways": [
             "給 3–5 篇本人寫的文字讓 AI 分析",
-            "提示詞範本 04 品牌語氣"
+            "提示詞範本 04 品牌語氣",
+            "WEN Prompt 01 品牌語氣（S39）",
+            "NotebookLM 文案手冊（S41）"
           ]
         },
         {
@@ -188,7 +190,9 @@
             "social 技能",
             "ig-caption、ig-carousel 等 Instagram 技能",
             "提示詞範本 13–18（LinkedIn）",
-            "30 分鐘輪播四步（S33，見 prompts/library.md 第十段）"
+            "30 分鐘輪播四步（S33，見 prompts/library.md 第十段）",
+            "Hana 4 個指令（S40）",
+            "WEN 10 組提示詞（S39，見 prompts/library.md 第十一段）"
           ]
         },
         {

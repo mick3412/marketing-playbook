@@ -2,11 +2,18 @@
 
 > 由 `python3 pb.py build` 產生。依第一個階段分組；狀態：已整合、已安裝、待試、待查、未採用、避開。
 
+## 1 品牌策略
+
+| 工具 | 狀態 | 費用 | 授權 | 何時用 |
+|---|---|---|---|---|
+| [NotebookLM](https://notebooklm.google.com/)（T-12） | 待試 | 免費 | Google 服務條款（未標） | 想從一位創作者的影片整理出可學的寫法時 |
+
 ## 2 研究與參考
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
 | [行銷參考圖庫（Really Good Emails、Posts.design、Adfolio、Social Proof Examples）](https://reallygoodemails.com/)（T-11） | 待試 | 免費 | 網站內容各自所有（未標） | 找參考作品時 |
+| [Agent Reach](https://github.com/Panniantong/Agent-Reach)（T-14） | 避開 | 免費 | MIT（寬鬆） | — |
 
 ## 3 撰寫
 
@@ -25,6 +32,7 @@
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
 | [Postiz](https://postiz.com/)（T-04） | 待試 | 部分付費 | AGPL-3.0（本機限定） | 排程多平台貼文時 |
+| [OpenReply](https://github.com/diwenne/openreply)（T-13） | 待查 | 部分付費 | MIT（寬鬆） | 要「留言關鍵字自動私訊」時 |
 
 ## 工具
 
