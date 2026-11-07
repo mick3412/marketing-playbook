@@ -18,3 +18,4 @@
 "S41","〈用 Claude 30 天成長 1 萬追蹤，我會先做的 5 件事〉（claude.ai 公開 artifact，2026-11-03）","https://claude.ai/artifact/QPU993aTX1b2BAx3dg4ud4","2026-11-05","成長數字為作者自述"
 "S42","〈10 AI Agents That Help Businesses Sell〉（Sarvesh Thakur，PDF 28 頁）","你提供的 PDF","2026-11-05",""
 "S43","youtube-agent-skill：11 個經營 YouTube 的 Claude 技能（Jake Schincariol，MIT，1.0.0）","https://github.com/Jakeschincariol/youtube-agent-skill","2026-11-06","工具登記在 production-playbook；重點見 sources/2026-11-06_youtube-agent-skill.md"
+"S44","Ootto〈claude-content-skills〉與〈claude-virality-skill〉（Jayant Joshi，@jayantcreates.ai，MIT，1.4.0，30 個 IG 技能）","https://github.com/Ootto-AI/claude-content-skills","2026-11-07","數字為作者單一帳號（AI 工具主題）自述；只讀未安裝；重點見 sources/2026-11-07_ootto-content-skills.md"

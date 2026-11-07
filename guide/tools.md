@@ -13,6 +13,7 @@
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
 | [行銷參考圖庫（Really Good Emails、Posts.design、Adfolio、Social Proof Examples）](https://reallygoodemails.com/)（T-11） | 待試 | 免費 | 網站內容各自所有（未標） | 找參考作品時 |
+| [claude-content-skills（Ootto，30 個 IG 技能）](https://github.com/Ootto-AI/claude-content-skills)（T-15） | 待試 | 免費 | MIT（agent-reach、humanizer 另有各自 MIT）（寬鬆） | 規劃 Reels 開場、腳本、輪播、說明欄、內容日曆時 |
 | [Agent Reach](https://github.com/Panniantong/Agent-Reach)（T-14） | 避開 | 免費 | MIT（寬鬆） | — |
 
 ## 3 撰寫
@@ -33,6 +34,7 @@
 |---|---|---|---|---|
 | [Postiz](https://postiz.com/)（T-04） | 待試 | 部分付費 | AGPL-3.0（本機限定） | 排程多平台貼文時 |
 | [OpenReply](https://github.com/diwenne/openreply)（T-13） | 待查 | 部分付費 | MIT（寬鬆） | 要「留言關鍵字自動私訊」時 |
+| [Ootto 服務](https://www.ootto.ai)（T-16） | 未採用 | 付費 | 商業服務（未標） | — |
 
 ## 工具
 
