@@ -21,6 +21,7 @@
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
+| [agency-agents（行銷挑 5 個）](https://github.com/msitarzewski/agency-agents)（T-18） | 待試 | 免費 | MIT（寬鬆） | 需要專門角色寫郵件序列、設計名單資源、準備諮詢通話、寫 LinkedIn 或模擬受眾審稿時 |
 | [PostZen LinkedIn 技能](https://github.com/postzen-dev/linkedin-agent-skill)（T-09） | 待查 | 部分付費 | MIT（寬鬆） | 寫 LinkedIn 貼文、留言、私訊時 |
 
 ## 4 審核
