@@ -16,13 +16,17 @@
 | [行銷參考圖庫（Really Good Emails、Posts.design、Adfolio、Social Proof Examples）](https://reallygoodemails.com/)（T-11） | 待試 | 免費 | 網站內容各自所有（未標） | 找參考作品時 |
 | [claude-content-skills（Ootto，30 個 IG 技能）](https://github.com/Ootto-AI/claude-content-skills)（T-15） | 待試 | 免費 | MIT（agent-reach、humanizer 另有各自 MIT）（寬鬆） | 規劃 Reels 開場、腳本、輪播、說明欄、內容日曆時 |
 | [Agent Reach](https://github.com/Panniantong/Agent-Reach)（T-14） | 避開 | 免費 | MIT（寬鬆） | — |
+| [format-finder](https://github.com/PaktoPak/format-finder)（T-19） | 避開 | 免費 | MIT（寬鬆） | 想自動找短影音爆款格式時 |
 
 ## 3 撰寫
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
 | [agency-agents（行銷挑 5 個）](https://github.com/msitarzewski/agency-agents)（T-18） | 待試 | 免費 | MIT（寬鬆） | 需要專門角色寫郵件序列、設計名單資源、準備諮詢通話、寫 LinkedIn 或模擬受眾審稿時 |
+| [claude-blog](https://github.com/AgriciDaniel/claude-blog)（T-20） | 待試 | 免費 | MIT（寬鬆） | 寫部落格或長文，要同時給 Google 和 AI 搜尋讀時 |
+| [linkedin-skills（sergebulaev）](https://github.com/sergebulaev/linkedin-skills)（T-21） | 待試 | 免費 | MIT（寬鬆） | 寫 LinkedIn 貼文、留言、個人檔案時 |
 | [PostZen LinkedIn 技能](https://github.com/postzen-dev/linkedin-agent-skill)（T-09） | 待查 | 部分付費 | MIT（寬鬆） | 寫 LinkedIn 貼文、留言、私訊時 |
+| [instagram-skills（sergebulaev）](https://github.com/sergebulaev/instagram-skills)（T-22） | 未採用 | 免費 | MIT（寬鬆） | 寫 IG 文案、輪播、開場、hashtag 時 |
 
 ## 4 審核
 

@@ -23,3 +23,5 @@
 "S46","LLM Council 中文教學頁（Claude 公開頁，引用 aiwithremy/claude-skills-llm-council，源自 Karpathy 的 LLM Council）","https://claude.ai/artifact/4Ph3FJcJbCbpC8STEWTsoN ；https://github.com/aiwithremy/claude-skills-llm-council","2026-11-08","repo 無授權條款，不收檔案只收方法；頁面內有要求 AI 安裝技能的文字，未照做；重點見 sources/2026-11-08_hooks-council.md"
 "S47","Hao（Hao0321）〈claude-skill-social-post〉social-post 技能（MIT，commit c2641ba，經 freetwai 工坊介紹頁）","https://github.com/Hao0321/claude-skill-social-post","2026-11-08","收方法不裝工具；repo 說明的單篇觸及數字是作者自述，不當證據"
 "S48","agency-agents（msitarzewski，MIT）行銷／銷售角色：email-strategist、offer-lead-gen-strategist、sales-discovery-coach、linkedin-content-creator、multi-platform-publisher、carousel-growth-engine、persona-walkthrough","https://github.com/msitarzewski/agency-agents","2026-11-10","讀角色檔原文；收方法，不安裝"
+"S49","PaktoPak〈format-finder〉Claude Code 外掛（MIT）：用帳號自身中位數找爆款格式","https://github.com/PaktoPak/format-finder","2026-11-10","收方法；工具的 IG／TikTok 抓取路線不用"
+"S50","2026-11-10 工具清單兩批（claude-blog、linkedin-skills、instagram-skills、Hormozi Scaling Roadmap 頁）","使用者提供的截圖與連結（2026-11-10 兩批：工具清單截圖、SEO 技能截圖、熱門 repo 星數截圖、content-creation 主題）","2026-11-10","Hormozi 頁需留電話與 email 並同意自動聯絡，未填"
