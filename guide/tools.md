@@ -46,6 +46,12 @@
 | [Ootto 服務](https://www.ootto.ai)（T-16） | 未採用 | 付費 | 商業服務（未標） | — |
 | [Metricool](https://metricool.com/)（T-25） | 未採用 | 部分付費 | 商業服務（特殊） | 排程發文時 |
 
+## 6 量測
+
+| 工具 | 狀態 | 費用 | 授權 | 何時用 |
+|---|---|---|---|---|
+| [claude-ads](https://github.com/AgriciDaniel/claude-ads)（T-27） | 待試 | 免費 | MIT（寬鬆） | 開始投廣告後要檢查成效與浪費時 |
+
 ## 工具
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
