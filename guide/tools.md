@@ -35,6 +35,7 @@
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
 | [humanizer（blader）](https://github.com/blader/humanizer)（T-10） | 待試 | 免費 | MIT（寬鬆） | 定稿前去掉 AI 味時 |
+| [stop-slop（hardikpandya）](https://github.com/hardikpandya/stop-slop)（T-26） | 待試 | 免費 | MIT（寬鬆） | 檢查文案有沒有 AI 腔時 |
 
 ## 5 發佈
 
