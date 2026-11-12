@@ -23,3 +23,4 @@
 - 2026-11-12 桌上試驗：行銷單項（發文前檢查、YouTube 說明）與改實戰的建議
 - 2026-11-12 收錄：cs2pm_ghost Scrolltide Reel（併入 S2-02、T-18／S4-06）
 - 2026-11-12 情境分面：新增「情境」欄位、data/facets.json（同義詞、上層、調性關聯、限制衝突）、plan --facets、facets 指令與檢查
+- 2026-11-12 共用引擎：pb.py spec 通用化、probe 指令、plan 提示依手冊顯示
