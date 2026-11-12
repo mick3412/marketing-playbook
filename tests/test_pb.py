@@ -148,6 +148,13 @@ class PlaybookTest(unittest.TestCase):
         self.assertNotIn("平台=IG", self.pb("facets", "--suggest", "redesign the company site"))
         self.assertIn("平台=IG", self.pb("facets", "--suggest", "發 IG 貼文"))
 
+    def test_shared_tags_are_identical_across_books(self):
+        others = [REPO.parent / f"{b}-playbook" / "data" / "shared.json" for b in ("production", "marketing", "web", "engineering")]
+        for o in others:
+            if o.is_file():
+                self.assertEqual((REPO / "data" / "shared.json").read_bytes(), o.read_bytes(), f"copy data/shared.json to {o.parent.parent.name}")
+        self.assertIn("風格=新粗獷", self.pb("facets", "--suggest", "新粗獷風的活動"))
+
     def test_rules_file_leaves_items_out(self):
         c = self._golden()["cases"][0]
         rules = self.tmp / "rules.txt"

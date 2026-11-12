@@ -3,5 +3,12 @@
   "title": "Marketing Playbook",
   "home_env": "MARKETING_PLAYBOOK_HOME",
   "state_dir": ".marketing",
-  "track_prefix": {"協作": "CO", "工具": "TL"}
+  "track_prefix": {
+    "協作": "CO",
+    "工具": "TL"
+  },
+  "媒材": [
+    "文案",
+    "圖片"
+  ]
 }
