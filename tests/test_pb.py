@@ -155,6 +155,12 @@ class PlaybookTest(unittest.TestCase):
                 self.assertEqual((REPO / "data" / "shared.json").read_bytes(), o.read_bytes(), f"copy data/shared.json to {o.parent.parent.name}")
         self.assertIn("風格=新粗獷", self.pb("facets", "--suggest", "新粗獷風的活動"))
 
+    def test_strategy_card_has_roles_stack_and_genes(self):
+        out = self.pb("strategy", "--from", "三個月內用 IG 和網站替新服務累積 300 筆名單，權威專業", "--save")
+        for part in ("## 平台角色", "## 內容堆疊", "## 設計基因", "R-02"):
+            self.assertIn(part, out)
+        self.assertIn("W04｜中期｜歡迎信序列｜文案 → marketing-playbook", self.pb("strategy", "--works"))
+
     def test_rules_file_leaves_items_out(self):
         c = self._golden()["cases"][0]
         rules = self.tmp / "rules.txt"
