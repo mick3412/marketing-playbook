@@ -6,7 +6,7 @@
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
-| [NotebookLM](https://notebooklm.google.com/)（T-12） | 待試 | 免費 | Google 服務條款（未標） | 想從一位創作者的影片整理出可學的寫法時 |
+| [NotebookLM](https://notebooklm.google.com/)（T-12） | 待查 | 免費 | Google 服務條款（未標） | 想從一位創作者的影片整理出可學的寫法時 |
 | [social-post（Hao0321）](https://github.com/Hao0321/claude-skill-social-post)（T-17） | 未採用 | 免費 | MIT（寬鬆） | 想要從舊貼文學語氣、分平台寫稿並把成效存成結構化紀錄時參考 |
 
 ## 2 研究與參考
@@ -34,8 +34,8 @@
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
-| [humanizer（blader）](https://github.com/blader/humanizer)（T-10） | 待試 | 免費 | MIT（寬鬆） | 定稿前去掉 AI 味時 |
-| [stop-slop（hardikpandya）](https://github.com/hardikpandya/stop-slop)（T-26） | 待試 | 免費 | MIT（寬鬆） | 檢查文案有沒有 AI 腔時 |
+| [stop-slop（hardikpandya）](https://github.com/hardikpandya/stop-slop)（T-26） | 已整合 | 免費 | MIT（寬鬆） | 檢查文案有沒有 AI 腔時。和 S4-03 一起用：S4-03 管流程（先列問題再改），stop-slop 管痕跡清單（M1 比較：兩者涵蓋相同 7/9 類，篇幅只有四分之一） |
+| [humanizer（blader）](https://github.com/blader/humanizer)（T-10） | 未採用 | 免費 | MIT（寬鬆） | 定稿前去掉 AI 味時。M1 比較由 T-26 stop-slop 勝出 |
 
 ## 5 發佈
 
