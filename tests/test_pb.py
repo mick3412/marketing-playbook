@@ -161,6 +161,21 @@ class PlaybookTest(unittest.TestCase):
             self.assertIn(part, out)
         self.assertIn("W04｜中期｜歡迎信序列｜文案 → marketing-playbook", self.pb("strategy", "--works"))
 
+    def test_blueprint_has_every_section_and_stage(self):
+        out = self.pb("blueprint", "名單型 Reels 腳本，權威專業，金融商品")
+        for n in range(1, 10):
+            self.assertIn(f"## {n}. ", out)
+        import json as _json
+        st = _json.loads((self.home / "data" / "stages.json").read_text(encoding="utf-8"))["stages"]
+        for s in st:
+            self.assertIn(f"- **{s['id']} {s['name']}**", out)
+        self.assertIn("  - 步驟：", out)
+        self.assertIn("  - 過關：", out)
+        self.assertIn("禁用：保證報酬、穩賺", out)
+        self.pb("blueprint", "名單型 Reels 腳本，權威專業，金融商品", "--save")
+        saved = list((self.project / ".strategy" / "計畫").glob("*.md"))
+        self.assertEqual(len(saved), 1)
+
     def test_rules_file_leaves_items_out(self):
         c = self._golden()["cases"][0]
         rules = self.tmp / "rules.txt"
