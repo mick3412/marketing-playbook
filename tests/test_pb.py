@@ -176,6 +176,11 @@ class PlaybookTest(unittest.TestCase):
         saved = list((self.project / ".strategy" / "計畫").glob("*.md"))
         self.assertEqual(len(saved), 1)
 
+    def test_strategy_questions_in_rounds(self):
+        out = self.pb("strategy", "--from", "替新服務做行銷")
+        self.assertIn("Q1｜目的", out)
+        self.assertIn("下一輪（等上面的答案）", out)
+
     def test_rules_file_leaves_items_out(self):
         c = self._golden()["cases"][0]
         rules = self.tmp / "rules.txt"
