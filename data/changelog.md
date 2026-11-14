@@ -38,3 +38,4 @@
 - 2026-11-14 收錄 S62 ShortGenius 2026 年文章：新增 S6-09 鉤子率與方向性門檻、S5-08 依粉絲活躍時段排程、S3-23 限時動態是獨立格式、S6-10 不幫銷售的爆款不算贏
 - 2026-11-14 引擎：新增 storyboard、qa 指令（只在有 data/storyboards.json、bin/video_qa.py 的手冊生效）；blueprint 會列分鏡模板；validate 檢查分鏡智庫
 - 2026-11-14 引擎：run-log 可記分鏡模板與系列格式代號（SB-、SF-）
+- 2026-11-14 引擎：pb.py qa 可收多張輪播頁圖片、新增 feed 安全區
