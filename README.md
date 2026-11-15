@@ -52,6 +52,8 @@
 
 71 個行銷技能，從原作者重新複製、不帶任何產品的規則（來源、commit 和授權見 [`skills/THIRD_PARTY.md`](skills/THIRD_PARTY.md)）：Corey Haines 的 52 個行銷技能、Instagram 的 13 個技能、ThinkWithBlack 的 6 個方法包、growth-funnel。
 
+一個代理（`agents/`）：`brand-strategist`，產品還沒有品牌時從零建立品牌（目的、定位、語氣、訊息、視覺識別），改編自 agency-agents（MIT）；已有品牌時不要用，改成依既有品牌審查。
+
 ## 安裝（Claude Code 外掛）
 
 ```bash

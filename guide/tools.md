@@ -43,6 +43,8 @@
 |---|---|---|---|---|
 | [Postiz](https://postiz.com/)（T-04） | 待試 | 部分付費 | AGPL-3.0（本機限定） | 排程多平台貼文時 |
 | [OpenReply](https://github.com/diwenne/openreply)（T-13） | 待查 | 部分付費 | MIT（寬鬆） | 要「留言關鍵字自動私訊」時 |
+| [Cal.diy（Cal.com 社群版）](https://github.com/calcom/cal.diy)（T-28） | 待查 | 免費 | MIT（寬鬆） | 要讓潛在客戶自己預約通話，又不想付預約工具月費時 |
+| [Chatwoot](https://github.com/chatwoot/chatwoot)（T-29） | 待查 | 免費 | MIT（核心）；/enterprise 資料夾是專有授權，社群版映像已移除（特殊） | 要把 IG、FB、網站對話收進同一個收件匣，又不想付客服軟體時 |
 | [Ootto 服務](https://www.ootto.ai)（T-16） | 未採用 | 付費 | 商業服務（未標） | — |
 | [Metricool](https://metricool.com/)（T-25） | 未採用 | 部分付費 | 商業服務（特殊） | 排程發文時 |
 

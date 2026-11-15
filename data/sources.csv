@@ -37,3 +37,6 @@
 "S60","逐字稿工具組（影片手冊 R-12）：本機會議紀錄 Meetily、中文辨識 SenseVoice／FunASR、講者分辨","https://github.com/jatinbishla/Umless ；影片手冊 R-12","2026-11-12","逐字稿工具組在影片手冊 R-12（T-98–T-110）"
 "S61","flowkit-labs/skills〈reddit-automation〉（MIT，約 37 星；內容附 doany.ai 推廣連結）：找高意圖討論串、揭露身分回覆、人工發文","https://github.com/flowkit-labs/skills","2026-11-13","skills.sh 安裝排行截圖（負責人提供，2026-11-13）；安裝數以 npx skills find 查證；只收做法，不裝技能"
 "S62","ShortGenius 部落格（繁中）2026 年文章","https://shortgenius.com/tw/blog","2026-11-13","ShortGenius 部落格 2026 年 253 篇（廠商 SEO 文，數字多為轉引；只收可照做的做法與有出處的規格）；整理見 production-playbook/bench/runs/intake/shortgenius/knowhow.md"
+"S63","isaac.startup 的 Claude Code 指令 1–7（IG 截圖）","（截圖，無網址）","2026-11-15","收兩個：造假檢測（併進 S3-12）、只拆講過的內容（S3-29）；其餘手冊已有（grill-me、last30days、ig-repurpose）"
+"S64","付費工具的開源替代清單（IG 截圖）","（截圖，無網址）","2026-11-15","收 Cal.diy、Chatwoot（書面查證）；AppFlowy、OpenProject 不收；其餘手冊已有"
+"S65","msitarzewski/agency-agents：brand-guardian 代理","https://github.com/msitarzewski/agency-agents","2026-11-15","改名為 brand-strategist、放進 agents/（MIT，授權在 agents/LICENSE-agency-agents）；拿掉人設與記憶宣稱，加上「先確認沒有既有品牌」與寫回產品設定檔的說明。審查既有品牌的角色由各專案自己定義"

@@ -42,3 +42,5 @@
 - 2026-11-14 引擎：pb.py qa 可收多張輪播頁圖片、新增 feed 安全區
 - 2026-11-14 引擎：pb.py qa 新增 story 平台
 - 2026-11-14 引擎：storyboard 顯示下方區塊與版面分區，validate 要求模板有下方區塊
+- 2026-11-15 收錄 S63 isaac.startup 指令、S64 開源替代清單：S3-12 補造假檢測；新增 S3-29 只拆講過的內容並帶走必附條件（桌上：拆 3 則新增主張 0，未帶小字時 1 則 BLOCK）；工具 T-28 Cal.diy、T-29 Chatwoot（書面查證，待查）；配方 R-01、R-05
+- 2026-11-15 新增 agents/brand-strategist（從零建立品牌，改編自 agency-agents brand-guardian，MIT）；1.4 加做法、S1-11（待試）、來源 S65
