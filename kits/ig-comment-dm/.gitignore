@@ -1,2 +1,5 @@
 .wrangler/
 node_modules/
+*.local.toml
+.verify-token
+set-secrets.local.sh

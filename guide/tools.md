@@ -6,6 +6,11 @@
 
 | 工具 | 狀態 | 費用 | 授權 | 何時用 |
 |---|---|---|---|---|
+| [Namelix](https://namelix.com)（T-30） | 待試 | 免費 | 服務條款（未標） | 要發想品牌名候選時 |
+| [經濟部智慧財產局 商標檢索系統](https://twtmsearch.tipo.gov.tw)（T-31） | 待試 | 免費 | 政府服務（未標） | 名字定案前，查台灣有沒有相同或近似的商標 |
+| [WIPO Global Brand Database](https://branddb.wipo.int)（T-32） | 待試 | 免費 | 政府間組織服務（未標） | 要在台灣以外的市場使用名字時 |
+| [Instant Domain Search](https://instantdomainsearch.com)（T-33） | 待試 | 免費 | 服務條款（未標） | 查名字對應的網域還有沒有空 |
+| [Namechk](https://namechk.com)（T-34） | 待試 | 免費 | 服務條款（未標） | 查各社群平台的帳號名稱還在不在 |
 | [NotebookLM](https://notebooklm.google.com/)（T-12） | 待查 | 免費 | Google 服務條款（未標） | 想從一位創作者的影片整理出可學的寫法時 |
 | [social-post（Hao0321）](https://github.com/Hao0321/claude-skill-social-post)（T-17） | 未採用 | 免費 | MIT（寬鬆） | 想要從舊貼文學語氣、分平台寫稿並把成效存成結構化紀錄時參考 |
 

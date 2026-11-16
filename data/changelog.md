@@ -46,3 +46,4 @@
 - 2026-11-15 新增 agents/brand-strategist（從零建立品牌，改編自 agency-agents brand-guardian，MIT）；1.4 加做法、S1-11（待試）、來源 S65
 - 2026-11-16 新增 S0-01（採用）：會花錢的步驟先顯示價格與上限，等人同意才執行；第 0 階段步驟補同一句
 - 2026-11-16 新增 kits/ig-comment-dm：IG 留言關鍵字自動私訊、確認追蹤後送連結（Cloudflare Workers，9 項測試）；S3-14 補自動化做法
+- 2026-11-16 新增配方 R-08 品牌命名：S1-12 命名四步（候選→商標、網域、帳號檢查→唸出來測→定案登記）；工具 T-30 Namelix、T-31 智慧財產局商標檢索、T-32 WIPO、T-33 Instant Domain Search、T-34 Namechk；分面 工作項目=命名；1.4 加做法
