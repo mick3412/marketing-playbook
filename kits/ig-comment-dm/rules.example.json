@@ -1,0 +1,12 @@
+[
+  {
+    "id": "guide",
+    "keywords": ["攻略", "guide"],
+    "media": [],
+    "opener": "謝謝留言！資料準備好了。先追蹤帳號，再按下面的按鈕，我馬上把連結傳給你。",
+    "button": "已追蹤，傳給我",
+    "notFollowing": "還沒看到你的追蹤喔，追蹤後再按一次按鈕就好。",
+    "linkText": "這是你要的資料：",
+    "link": "https://example.com/guide"
+  }
+]

@@ -1,0 +1,19 @@
+# Cloudflare Worker config. Free plan: 100,000 requests a day; KV 100,000 reads and 1,000 writes a day.
+# Over the free limit the Worker returns errors; it never moves to a paid plan by itself.
+name = "ig-comment-dm"
+main = "src/worker.js"
+compatibility_date = "2026-11-01"
+
+[vars]
+GRAPH_VERSION = "v24.0"
+IG_USER_ID = ""      # the Instagram professional account ID
+PAGE_ID = ""         # the Facebook Page linked to it
+# RULES: paste rules.json here as one line, or set it with `wrangler secret put RULES` if it holds private links
+RULES = '[{"id":"guide","keywords":["攻略","guide"],"opener":"謝謝留言！先追蹤帳號，再按下面的按鈕，我馬上把連結傳給你。","button":"已追蹤，傳給我","notFollowing":"還沒看到你的追蹤喔，追蹤後再按一次按鈕就好。","link":"https://example.com/guide"}]'
+
+# Create once with `npx wrangler@4 kv namespace create SEEN`, then paste the id it prints.
+[[kv_namespaces]]
+binding = "SEEN"
+id = "PASTE_KV_ID_HERE"
+
+# Secrets (never in this file): npx wrangler@4 secret put VERIFY_TOKEN / APP_SECRET / PAGE_ACCESS_TOKEN
