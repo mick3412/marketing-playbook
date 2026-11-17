@@ -48,3 +48,4 @@
 - 2026-11-16 新增 kits/ig-comment-dm：IG 留言關鍵字自動私訊、確認追蹤後送連結（Cloudflare Workers，9 項測試）；S3-14 補自動化做法
 - 2026-11-16 新增配方 R-08 品牌命名：S1-12 命名四步（候選→商標、網域、帳號檢查→唸出來測→定案登記）；工具 T-30 Namelix、T-31 智慧財產局商標檢索、T-32 WIPO、T-33 Instant Domain Search、T-34 Namechk；分面 工作項目=命名；1.4 加做法
 - 2026-11-16 引擎：storyboard --emit 出卡片草稿、card-check 驗證版型卡（影片手冊用）
+- 2026-11-17 pb.py 同步：card-check 檢查分鏡卡片的動態設定（motion 預設與數值範圍）
