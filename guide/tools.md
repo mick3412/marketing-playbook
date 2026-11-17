@@ -11,6 +11,7 @@
 | [WIPO Global Brand Database](https://branddb.wipo.int)（T-32） | 待試 | 免費 | 政府間組織服務（未標） | 要在台灣以外的市場使用名字時 |
 | [Instant Domain Search](https://instantdomainsearch.com)（T-33） | 待試 | 免費 | 服務條款（未標） | 查名字對應的網域還有沒有空 |
 | [Namechk](https://namechk.com)（T-34） | 待試 | 免費 | 服務條款（未標） | 查各社群平台的帳號名稱還在不在 |
+| [Apollo.io](https://www.apollo.io)（T-35） | 待試 | 部分付費 | 服務條款（未標） | 做 B2B 開發，要找目標公司的決策者與聯絡方式時 |
 | [NotebookLM](https://notebooklm.google.com/)（T-12） | 待查 | 免費 | Google 服務條款（未標） | 想從一位創作者的影片整理出可學的寫法時 |
 | [social-post（Hao0321）](https://github.com/Hao0321/claude-skill-social-post)（T-17） | 未採用 | 免費 | MIT（寬鬆） | 想要從舊貼文學語氣、分平台寫稿並把成效存成結構化紀錄時參考 |
 

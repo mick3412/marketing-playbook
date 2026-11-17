@@ -41,3 +41,4 @@
 "S64","付費工具的開源替代清單（IG 截圖）","（截圖，無網址）","2026-11-15","收 Cal.diy、Chatwoot（書面查證）；AppFlowy、OpenProject 不收；其餘手冊已有"
 "S65","msitarzewski/agency-agents：brand-guardian 代理","https://github.com/msitarzewski/agency-agents","2026-11-15","改名為 brand-strategist、放進 agents/（MIT，授權在 agents/LICENSE-agency-agents）；拿掉人設與記憶宣稱，加上「先確認沒有既有品牌」與寫回產品設定檔的說明。審查既有品牌的角色由各專案自己定義"
 "S66","IG 個人檔案逐級自評輪播（截圖 5 張：彩色背景頭像、名字＋關鍵字、自介、三個精選、三篇置頂；百分比無出處）","（截圖，無網址）","2026-11-17","內容 ig-profile 技能已涵蓋；收逐級自評輪播格式（S3-22）與頭像彩色背景（S3-23）；百分比不收"
+"S67","AIAgently 輪播：5 個部門各 10 個外掛（截圖 5 張）","https://aiagently.io","2026-11-17","本書新收 Apollo；Metricool、humanizer、Perplexity 已有；Windsor.ai、Gamma、Granola 不收（免費只給一次或 Looker Studio 已可替代）"
