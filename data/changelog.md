@@ -53,3 +53,4 @@
 - 2026-11-17 pb.py 同步：prompt-check、spec 的圖片模式與比例分區解析（網站 spec 輸出不變）
 - 2026-11-17 pb.py 同步：direction 指令、storyboard --direction、模板的真實例子
 - 2026-11-19 引擎同步：pb.py 加 `scout` 指令（外找同類範本，只在 production-playbook 有 bin/scout.py）
+- 2026-11-19 pb.py：review-pack --stage web 的下一步提示改成通用審查代理（不是 video-reviewer）
