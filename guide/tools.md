@@ -33,6 +33,7 @@
 | [agency-agents（行銷挑 5 個）](https://github.com/msitarzewski/agency-agents)（T-18） | 待試 | 免費 | MIT（寬鬆） | 需要專門角色寫郵件序列、設計名單資源、準備諮詢通話、寫 LinkedIn 或模擬受眾審稿時 |
 | [claude-blog](https://github.com/AgriciDaniel/claude-blog)（T-20） | 待試 | 免費 | MIT（寬鬆） | 寫部落格或長文，要同時給 Google 和 AI 搜尋讀時 |
 | [linkedin-skills（sergebulaev）](https://github.com/sergebulaev/linkedin-skills)（T-21） | 待試 | 免費 | MIT（寬鬆） | 寫 LinkedIn 貼文、留言、個人檔案時 |
+| [linkedin-agent-skill（Jakeschincariol）](https://github.com/Jakeschincariol/linkedin-agent-skill)（T-36） | 待試 | 免費 | MIT（寬鬆） | 寫 LinkedIn 英文貼文、留言、回覆、私訊，或替個人檔案打分時 |
 | [PostZen LinkedIn 技能](https://github.com/postzen-dev/linkedin-agent-skill)（T-09） | 未採用 | 部分付費 | MIT（寬鬆） | 寫 LinkedIn 貼文、留言、私訊時 |
 | [instagram-skills（sergebulaev）](https://github.com/sergebulaev/instagram-skills)（T-22） | 未採用 | 免費 | MIT（寬鬆） | 寫 IG 文案、輪播、開場、hashtag 時 |
 

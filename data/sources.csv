@@ -43,3 +43,4 @@
 "S66","IG 個人檔案逐級自評輪播（截圖 5 張：彩色背景頭像、名字＋關鍵字、自介、三個精選、三篇置頂；百分比無出處）","（截圖，無網址）","2026-11-17","內容 ig-profile 技能已涵蓋；收逐級自評輪播格式（S3-22）與頭像彩色背景（S3-23）；百分比不收"
 "S67","AIAgently 輪播：5 個部門各 10 個外掛（截圖 5 張）","https://aiagently.io","2026-11-17","本書新收 Apollo；Metricool、humanizer、Perplexity 已有；Windsor.ai、Gamma、Granola 不收（免費只給一次或 Looker Studio 已可替代）"
 "S68","PDF〈Short-Form Storytelling (Writing Guide)〉（Kallaway）與 IG 輪播（iamlily.genai，AI 剪片 Skill 八選）","https://drive.google.com/file/d/1Bs5bgxP-A4cmCUPMRPy5oFS4nbsXYgNn/view","2026-11-18","收短影音腳本骨架（3.9，細節在影片手冊）；輪播最後一張「怎麼選」對照表＋留言選項補進 S3-21"
+"S69","Jakeschincariol/linkedin-agent-skill（BrewBytes IG 片介紹）","https://github.com/Jakeschincariol/linkedin-agent-skill ；https://www.instagram.com/reel/DgFW5QVv-h2/","2026-11-24","MIT，3,927 星（2026-11-24）；片中 24.8→69.7 是 README 的示範（刻意寫爛的稿）"
